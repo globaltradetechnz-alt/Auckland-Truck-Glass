@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aucklandtruckglass.co.nz/sitemap.xml
