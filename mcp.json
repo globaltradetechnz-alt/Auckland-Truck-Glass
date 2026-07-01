@@ -1,0 +1,62 @@
+{
+  "name": "Auckland Truck Glass Specialists",
+  "description": "Truck windscreen and glass replacement across Auckland. Heavy and split truck glass, ADAS camera-equipped trucks. Mobile fitting at depots and yards, same-day service, insurance claims handled.",
+  "website": "https://aucklandtruckglass.co.nz",
+  "contact": {
+    "phone": "0800-563-563",
+    "mobile": "021-757-985",
+    "email": "machglass@gmail.com",
+    "hours": "Monday-Friday, 8:00 AM - 5:00 PM"
+  },
+  "services": [
+    {
+      "name": "Truck Windscreen Replacement",
+      "url": "https://aucklandtruckglass.co.nz/"
+    },
+    {
+      "name": "Side Glass",
+      "url": "https://aucklandtruckglass.co.nz/"
+    },
+    {
+      "name": "Rear & Back Glass",
+      "url": "https://aucklandtruckglass.co.nz/"
+    },
+    {
+      "name": "Insurance Claims",
+      "url": "https://aucklandtruckglass.co.nz/"
+    },
+    {
+      "name": "Mobile Fitting",
+      "url": "https://aucklandtruckglass.co.nz/"
+    }
+  ],
+  "specialty": "Heavy vehicle and commercial truck glass",
+  "areas": [
+    "Auckland"
+  ],
+  "insurance_partners": [
+    "AA",
+    "AMI",
+    "AMP",
+    "ANZ",
+    "ASB",
+    "BNZ",
+    "Covi",
+    "FMG",
+    "IAG",
+    "Lumley",
+    "NZI",
+    "QBE",
+    "State",
+    "Vero",
+    "Zurich"
+  ],
+  "key_pages": {
+    "homepage": "https://aucklandtruckglass.co.nz/",
+    "contact": "https://aucklandtruckglass.co.nz/contact.html"
+  },
+  "sitemap": "https://aucklandtruckglass.co.nz/sitemap.xml",
+  "robots": "https://aucklandtruckglass.co.nz/robots.txt",
+  "llms": "https://aucklandtruckglass.co.nz/llms.txt",
+  "mcp": "https://aucklandtruckglass.co.nz/.well-known/mcp.json"
+}
